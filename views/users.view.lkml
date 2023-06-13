@@ -80,10 +80,10 @@ view: users {
       first_name,
       last_name,
       events.count,
-      orders.count,
       saralooker.count,
       sindhu.count,
-      user_data.count
+      user_data.count,
+      count
     ]
   }
 }
